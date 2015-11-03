@@ -32,7 +32,9 @@ ul, ol, dl, figure,
  * Images
  */
 img {
-  max-width: 100%;
+  max-width: 80%;
+  margin-left: 10%;
+  margin-top: 30px;
   vertical-align: middle; }
 
 /**

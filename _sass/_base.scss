@@ -41,8 +41,11 @@ ul, ol, dl, figure,
  * Images
  */
 img {
-    max-width: 100%;
+    max-width: 80%;
+    margin-left: 10%;
+    margin-top: $spacing-unit;
     vertical-align: middle;
+
 }
 
 
